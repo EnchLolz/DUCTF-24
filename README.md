@@ -14,6 +14,8 @@
     - [Survey (Misc)](https://github.com/EnchLolz/DUCTF-24/blob/main/MISC/Survey.md)
     - [TLDR Please Summarise (Misc)](https://github.com/EnchLolz/DUCTF-24/blob/main/MISC/TLDR%20Please%20Summarise.md)
     - [Intercepted Transmissions (Misc)](https://github.com/EnchLolz/DUCTF-24/blob/main/MISC/Intercepted%20Transmissions.md)
+    - [Offtheramp (Beginner)](https://github.com/EnchLolz/DUCTF-24/blob/main/Osint/Offtheramp.md)
+    - [Marketing (Beginner) (Should be Hard :skull:)](https://github.com/EnchLolz/DUCTF-24/blob/main/Osint/Marketing.md)
 - ### Crypto (6/11)
 
 - ### Forensics (4/6)
@@ -28,6 +30,12 @@
     - [Wacky Recipe (Easy)](https://github.com/EnchLolz/DUCTF-24/blob/main/MISC/Wacky%20Recipe.md)
     - [DNADecay (Easy)](https://github.com/EnchLolz/DUCTF-24/blob/main/MISC/DNADecay.md)
 - ### Osint (7/7)
+    - [Offtheramp (Beginner)](https://github.com/EnchLolz/DUCTF-24/blob/main/Osint/Offtheramp.md)
+    - [Marketing (Beginner) (Should be Hard :skull:)](https://github.com/EnchLolz/DUCTF-24/blob/main/Osint/Marketing.md)
+    - [City Views (Easy)](https://github.com/EnchLolz/DUCTF-24/blob/main/Osint/Cityviews.md)
+    - [Bridget Lives (Easy)](https://github.com/EnchLolz/DUCTF-24/blob/main/Osint/Bridget%20Lives.md)
+    - [Back to the Jungle (Easy)](https://github.com/EnchLolz/DUCTF-24/blob/main/Osint/Back%20to%20the%20Jungle.md)
+    - [They're Making Decoys](https://github.com/EnchLolz/DUCTF-24/blob/main/Osint/They're%20Making%20Decoys.md)
 
 - ### Pwn (1/8)
     - Maybe one day lmao
