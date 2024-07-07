@@ -8,23 +8,23 @@
 
 ## Categories
 
-- ### Beginner
+- ### Beginner (16/17)
+    - Contains dupes of challenges from other categories
+- ### Crypto (6/11)
 
-- ### Crypto
+- ### Forensics (4/6)
 
-- ### Forensics
+- ### Hardware (2/8)
 
-- ### Hardware
+- ### Misc (6/11)
 
-- ### Misc
+- ### Osint (7/7)
 
-- ### Osint
-
-- ### Pwn
+- ### Pwn (1/8)
     - Maybe one day lmao
-- ### Rev
+- ### Rev (3/10)
 
-- ### Web
+- ### Web (4/9)
 
 
 
