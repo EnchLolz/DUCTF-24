@@ -167,6 +167,7 @@ Running this gives us:
 Each triple's value is `a+b*pain+c*effort`. Since we know the flag wrapper the first two triples must have value `D` and `U` respectively, so we can solve for pain and effort algebraically.
 
 ```math
+\displaylines{
 20+1p+1e = 68 \\
 10+2p+1e = 85 \\
 \text{Subtract top from bottom}\\
@@ -175,6 +176,7 @@ p = 27 \\
 \text{Solve for effort}\\
 20+17+1e = 68 \\
 e = 21
+}
 ```
 
 Plugging these values in and running yields the flag:
