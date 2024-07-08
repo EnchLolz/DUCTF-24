@@ -12,7 +12,7 @@ Solves: 386
 
 ### Solution
 
-Opening up the folder, it seems like we are given a bunch of users on a Windows network. Scrolling through all the files, there isn't anything interesting besides a few `.pol` files and a `Groups.xml` which contains a weird `cpassword`:
+Opening up the folder, it seems like we are given a bunch of users on a Windows system. Scrolling through all the files, there isn't anything interesting besides a few `.pol` files and a `Groups.xml` which contains a weird `cpassword`:
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
