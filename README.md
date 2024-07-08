@@ -16,10 +16,16 @@
     - [Intercepted Transmissions (Misc)](https://github.com/EnchLolz/DUCTF-24/blob/main/MISC/Intercepted%20Transmissions.md)
     - [Offtheramp (Beginner)](https://github.com/EnchLolz/DUCTF-24/blob/main/OSINT/Offtheramp.md)
     - [Marketing (Beginner) (Should be Hard :skull:)](https://github.com/EnchLolz/DUCTF-24/blob/main/OSINT/Marketing.md)
+    - [Baby's First Forensics (Beginner)](https://github.com/EnchLolz/DUCTF-24/blob/main/FORENSICS/Baby's%20First%20Forensics.md)
+    - [SAM I AM (Beginner)](https://github.com/EnchLolz/DUCTF-24/blob/main/FORENSICS/SAM%20I%20AM.md)
+    - [Bad Policies (Beginner)](https://github.com/EnchLolz/DUCTF-24/blob/main/FORENSICS/Bad%20Policies.md)
 - ### Crypto (6/11)
 
 - ### Forensics (4/6)
-
+    - [Baby's First Forensics (Beginner)](https://github.com/EnchLolz/DUCTF-24/blob/main/FORENSICS/Baby's%20First%20Forensics.md)
+    - [SAM I AM (Beginner)](https://github.com/EnchLolz/DUCTF-24/blob/main/FORENSICS/SAM%20I%20AM.md)
+    - [Bad Policies (Beginner)](https://github.com/EnchLolz/DUCTF-24/blob/main/FORENSICS/Bad%20Policies.md)
+    - [Macro Magic (Easy)](https://github.com/EnchLolz/DUCTF-24/blob/main/FORENSICS/Macro%20Magic.md)
 - ### Hardware (2/8)
 
 - ### Misc (6/11)
