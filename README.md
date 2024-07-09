@@ -14,11 +14,13 @@
     - [Survey (Misc)](https://github.com/EnchLolz/DUCTF-24/blob/main/MISC/Survey.md)
     - [TLDR Please Summarise (Misc)](https://github.com/EnchLolz/DUCTF-24/blob/main/MISC/TLDR%20Please%20Summarise.md)
     - [Intercepted Transmissions (Misc)](https://github.com/EnchLolz/DUCTF-24/blob/main/MISC/Intercepted%20Transmissions.md)
-    - [Offtheramp (Beginner)](https://github.com/EnchLolz/DUCTF-24/blob/main/OSINT/Offtheramp.md)
-    - [Marketing (Beginner) (Should be Hard :skull:)](https://github.com/EnchLolz/DUCTF-24/blob/main/OSINT/Marketing.md)
-    - [Baby's First Forensics (Beginner)](https://github.com/EnchLolz/DUCTF-24/blob/main/FORENSICS/Baby's%20First%20Forensics.md)
-    - [SAM I AM (Beginner)](https://github.com/EnchLolz/DUCTF-24/blob/main/FORENSICS/SAM%20I%20AM.md)
-    - [Bad Policies (Beginner)](https://github.com/EnchLolz/DUCTF-24/blob/main/FORENSICS/Bad%20Policies.md)
+    - [Offtheramp (Osint)](https://github.com/EnchLolz/DUCTF-24/blob/main/OSINT/Offtheramp.md)
+    - [Marketing (Osint) (Should be Hard :skull:)](https://github.com/EnchLolz/DUCTF-24/blob/main/OSINT/Marketing.md)
+    - [Baby's First Forensics (Forensics)](https://github.com/EnchLolz/DUCTF-24/blob/main/FORENSICS/Baby's%20First%20Forensics.md)
+    - [SAM I AM (Forensics)](https://github.com/EnchLolz/DUCTF-24/blob/main/FORENSICS/SAM%20I%20AM.md)
+    - [Bad Policies (Forensics)](https://github.com/EnchLolz/DUCTF-24/blob/main/FORENSICS/Bad%20Policies.md)
+    - [Parrot the Emu (Web)](https://github.com/EnchLolz/DUCTF-24/blob/main/WEB/Parrot%20the%20Emu.md)
+    - [Zoo Feedback Form (Web)](https://github.com/EnchLolz/DUCTF-24/blob/main/WEB/Zoo%20Feedback%20Form.md)
 - ### Crypto (6/11)
 
 - ### Forensics (4/6)
@@ -41,14 +43,17 @@
     - [City Views (Easy)](https://github.com/EnchLolz/DUCTF-24/blob/main/OSINT/Cityviews.md)
     - [Bridget Lives (Easy)](https://github.com/EnchLolz/DUCTF-24/blob/main/OSINT/Bridget%20Lives.md)
     - [Back to the Jungle (Easy)](https://github.com/EnchLolz/DUCTF-24/blob/main/OSINT/Back%20to%20the%20Jungle.md)
-    - [They're Making Decoys](https://github.com/EnchLolz/DUCTF-24/blob/main/OSINT/They're%20Making%20Decoys.md)
+    - [They're Making Decoys (Medium)](https://github.com/EnchLolz/DUCTF-24/blob/main/OSINT/They're%20Making%20Decoys.md)
 
 - ### Pwn (1/8)
     - Maybe one day lmao
 - ### Rev (3/10)
 
 - ### Web (4/9)
-
+    - [Parrot the Emu (Beginner)](https://github.com/EnchLolz/DUCTF-24/blob/main/WEB/Parrot%20the%20Emu.md)
+    - [Zoo Feedback Form (Beginner)](https://github.com/EnchLolz/DUCTF-24/blob/main/WEB/Zoo%20Feedback%20Form.md)
+    - [CO2 (Easy)](https://github.com/EnchLolz/DUCTF-24/blob/main/WEB/CO2.md)
+    - [Hah Got Em (Easy)](https://github.com/EnchLolz/DUCTF-24/blob/main/WEB/Hah%20Got%20Em.md)
 
 
 
