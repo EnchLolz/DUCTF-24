@@ -15,15 +15,18 @@ Solves: 801
 Looks like they give us the classic tale of how CRT was invented, and now ask us to solve a case.
 
 ```math
+\displaylines{
 n \in [1000,1100] \\
 n \equiv 2 \mod 3 \\
 n \equiv 4 \mod 5 \\
 n \equiv 5 \mod 7 \\
+}
 ```
 
 Sol:
 
 ```math
+\displaylines{
 n \equiv 2 \equiv -1 \mod 3 \\
 n \equiv 4 \equiv -1 \mod 5 \\
 \text{so} \\
@@ -35,6 +38,7 @@ n \equiv 5 \equiv -16 \mod 7 \\
 n \equiv -16 \mod 105 \\
 \text{from here we can see that} \\
 n=10\cdot105-16=1034 \in [1000,1100]
+}
 ```
 
 Submitting `1034` leads us to part2:
