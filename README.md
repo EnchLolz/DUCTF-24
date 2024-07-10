@@ -21,7 +21,16 @@
     - [Bad Policies (Forensics)](https://github.com/EnchLolz/DUCTF-24/blob/main/FORENSICS/Bad%20Policies.md)
     - [Parrot the Emu (Web)](https://github.com/EnchLolz/DUCTF-24/blob/main/WEB/Parrot%20the%20Emu.md)
     - [Zoo Feedback Form (Web)](https://github.com/EnchLolz/DUCTF-24/blob/main/WEB/Zoo%20Feedback%20Form.md)
+    - [Sun Zi's Perfect Math Class (Crypto)](https://github.com/EnchLolz/DUCTF-24/blob/main/CRYPTO/Sun%20Zi's%20Perfect%20Math%20Class.md)
+    - [Shufflebox (Crypto)](https://github.com/EnchLolz/DUCTF-24/blob/main/CRYPTO/Shufflebox.md)
 - ### Crypto (6/11)
+    - [Sun Zi's Perfect Math Class (Beginner)](https://github.com/EnchLolz/DUCTF-24/blob/main/CRYPTO/Sun%20Zi's%20Perfect%20Math%20Class.md)
+    - [Shufflebox (Beginner)](https://github.com/EnchLolz/DUCTF-24/blob/main/CRYPTO/Shufflebox.md)
+    - [Decrypt then Eval (Easy) (Script only)](https://github.com/EnchLolz/DUCTF-24/blob/main/CRYPTO/Decrypt%20then%20Eval.md)
+    - [My Array Generator (Easy) (Script only)](https://github.com/EnchLolz/DUCTF-24/blob/main/CRYPTO/My%20Array%20Generator.md)
+    - [V for Vieta (Easy) (Script only)](https://github.com/EnchLolz/DUCTF-24/blob/main/CRYPTO/V%20for%20Vieta.md)
+    - [Three Line Crypto (Medium)](https://github.com/EnchLolz/DUCTF-24/blob/main/CRYPTO/Three%20Line%20Crypto.md)
+
 
 - ### Forensics (4/6)
     - [Baby's First Forensics (Beginner)](https://github.com/EnchLolz/DUCTF-24/blob/main/FORENSICS/Baby's%20First%20Forensics.md)
